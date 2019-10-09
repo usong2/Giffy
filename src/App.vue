@@ -11,5 +11,5 @@ export default {
 </script>
 
 <style>
-
+#app.compact{height: 5000px;}
 </style>
